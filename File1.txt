@@ -1,1 +1,2 @@
 Adding sample text
+Changing in feature 1
